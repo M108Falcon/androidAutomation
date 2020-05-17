@@ -15,4 +15,4 @@ For arch
   sudo pacman -S adb
   ```
 
-2. Python packages include numpy, pillow and pure-python-adb.
+2. Python packages include: numpy, pillow and pure-python-adb.
